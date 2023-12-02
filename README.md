@@ -24,7 +24,6 @@
 - ⚡ Fun fact **I am funny 😎**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
 <h1 align="center">Connect With Me</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/valerio-manrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturo12321" height="40" width="50" /></a>
@@ -32,7 +31,6 @@
 <a href="https://discord.com/users/823987149749485608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arturo12321" height="40" width="50" /></a>
 <a href="https://github.com/arturo12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arturo12321" height="40" width="50" /></a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 
